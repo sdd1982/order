@@ -1,11 +1,17 @@
 {
-	"name":{"en":"order"},
-	"description":{"es":"Orden de la parte u organización"},
-	"documentationUrl":{"es":"https://github.com/sdd1982/order/blob/master/README.md"},
-	"schemas": [
-		"release-schema.json"
-	],
-	"compatibility": [
-		"1.1"
-	]
+  "name": {
+    "en": "order"
+  },
+  "description": {
+    "es": "Orden de la parte u organización"
+  },
+  "documentationUrl": {
+    "es": "https://github.com/sdd1982/order/blob/master/README.md"
+  },
+  "schemas": [
+    "release-schema.json"
+  ],
+  "compatibility": [
+    "1.1"
+  ]
 }
